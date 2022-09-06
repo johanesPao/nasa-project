@@ -1,5 +1,7 @@
 .git
 
 */node_modules
+.github
+.vscode
 
 server/public
